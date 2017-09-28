@@ -7,7 +7,7 @@ if (name === "Susan") {
 }
 else {
   console.log ("Expected: ");
-  console.log (./index.name)
+  console.log (index.name)
 }
 
 if (height === "70") {
