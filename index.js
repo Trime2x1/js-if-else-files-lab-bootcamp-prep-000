@@ -5,7 +5,7 @@ if (name === "Susan") {
   console.log ("The name is correct");
 }
 else {
-  console.log("Expected: index.name," "Received: index.name")
+  console.log("Expected: index.name,")
 }
 
 // Don't worry about this
